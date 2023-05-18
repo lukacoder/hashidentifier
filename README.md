@@ -1,3 +1,5 @@
+## .pyc File Running
+<img src="https://i.hizliresim.com/ip0b7jt.jpg">
 # Hash İdentifier Tool
 
 Bu tool ile hash değerlerninin hangi hash değerlerinin olduğunu bulabilirsiniz.
