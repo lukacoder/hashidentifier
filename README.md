@@ -1,4 +1,3 @@
-# hashidentifier
 # Hash İdentifier Tool
 
 Bu tool ile hash değerlerninin hangi hash değerlerinin olduğunu bulabilirsiniz.
